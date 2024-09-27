@@ -1,5 +1,7 @@
 # Proyecto de Gestión en PHP
 
+## ANTES DE COMENZAR RECUERDE IMPORTAR LA BASE DE DATOS QUE SE ENCUENTRA EN LA CARPETA database EN EL phpMyadmin PARA EL FUNCIONAMIENTO ADECUADO DEL PROYECTO :)
+
 Este proyecto consiste en un sistema de gestión básico desarrollado en **PHP** utilizando el paradigma de **Programación Orientada a Objetos (POO)**. El sistema gestiona diferentes entidades como **Personas**, **Clientes**, **Vendedores**, **Empresas**, **Productos**, y **Facturas**. A continuación, se detalla la arquitectura y las decisiones clave tomadas durante el desarrollo.
 
 ## Decisiones Técnicas
